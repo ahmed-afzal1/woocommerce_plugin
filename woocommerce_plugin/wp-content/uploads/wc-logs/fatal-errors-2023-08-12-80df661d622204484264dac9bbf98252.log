@@ -1,0 +1,452 @@
+2023-08-12T04:01:31+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#8 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:01:32+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#8 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:01:32+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#8 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:01:33+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#8 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:01:33+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#8 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:01:38+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/www/task/wp-admin/index.php(10): require_once('...')
+#8 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#9 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:02:54+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin-ajax.php(22): require_once('...')
+#7 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#8 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:05:04+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/www/task/wp-admin/post.php(12): require_once('...')
+#8 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#9 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:05:04+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin-ajax.php(22): require_once('...')
+#7 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#8 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:05:50+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/www/task/wp-admin/post.php(12): require_once('...')
+#8 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#9 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:05:51+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/www/task/wp-admin/post.php(12): require_once('...')
+#8 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#9 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:06:05+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/www/task/wp-admin/post.php(12): require_once('...')
+#8 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#9 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:06:55+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/www/task/wp-admin/post.php(12): require_once('...')
+#8 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#9 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:06:56+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/www/task/wp-admin/post.php(12): require_once('...')
+#8 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#9 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:09:02+00:00 CRITICAL Uncaught Error: Failed opening required '/home/user/www/task/wp-content/plugins/afzal-gateway//includes/class-wc-payment-gateway-afzal' (include_path='.:/usr/share/php') in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php:27
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(310): afzal_payment_init()
+#1 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#2 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/user/www/task/wp-settings.php(495): do_action()
+#4 /home/user/www/task/wp-config.php(96): require_once('...')
+#5 /home/user/www/task/wp-load.php(50): require_once('...')
+#6 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#7 /home/user/www/task/wp-admin/post.php(12): require_once('...')
+#8 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#9 {main}
+  thrown in /home/user/www/task/wp-content/plugins/afzal-gateway/afzal-gateway.php on line 27
+
+2023-08-12T04:27:57+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "payleo_payment_init" not found or invalid function name in /home/user/www/task/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/user/www/task/wp-settings.php(495): do_action()
+#3 /home/user/www/task/wp-config.php(96): require_once('...')
+#4 /home/user/www/task/wp-load.php(50): require_once('...')
+#5 /home/user/www/task/wp-admin/admin.php(34): require_once('...')
+#6 /home/user/www/task/wp-admin/post.php(12): require_once('...')
+#7 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#8 {main}
+  thrown in /home/user/www/task/wp-includes/class-wp-hook.php on line 310
+
+2023-08-12T04:27:57+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "payleo_payment_init" not found or invalid function name in /home/user/www/task/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/user/www/task/wp-settings.php(495): do_action()
+#3 /home/user/www/task/wp-config.php(96): require_once('...')
+#4 /home/user/www/task/wp-load.php(50): require_once('...')
+#5 /home/user/www/task/wp-admin/admin-ajax.php(22): require_once('...')
+#6 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#7 {main}
+  thrown in /home/user/www/task/wp-includes/class-wp-hook.php on line 310
+
+2023-08-12T05:25:36+00:00 CRITICAL Uncaught Error: Cannot use object of type Automattic\WooCommerce\Admin\Overrides\Order as array in /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-checkout.php:1053
+Stack trace:
+#0 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1279): WC_Checkout->process_order_payment()
+#1 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(508): WC_Checkout->process_checkout()
+#2 /home/user/www/task/wp-includes/class-wp-hook.php(310): WC_AJAX::checkout()
+#3 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#4 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#5 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action()
+#6 /home/user/www/task/wp-includes/class-wp-hook.php(310): WC_AJAX::do_wc_ajax()
+#7 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#8 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/user/www/task/wp-includes/template-loader.php(13): do_action()
+#10 /home/user/www/task/wp-blog-header.php(19): require_once('...')
+#11 /home/user/www/task/index.php(17): require('...')
+#12 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#13 {main}
+  thrown in /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-checkout.php on line 1053
+
+2023-08-12T12:16:03+00:00 CRITICAL Uncaught TypeError: preg_replace(): Argument #3 ($subject) must be of type array|string, WP_Error given in /home/user/www/task/wp-includes/kses.php:1735
+Stack trace:
+#0 /home/user/www/task/wp-includes/kses.php(1735): preg_replace()
+#1 /home/user/www/task/wp-includes/kses.php(752): wp_kses_no_null()
+#2 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(280): wp_kses()
+#3 /home/user/www/task/wp-content/plugins/woocommerce/templates/notices/error.php(30): wc_kses_notice()
+#4 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('...')
+#5 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(158): wc_get_template()
+#6 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1187): wc_print_notices()
+#7 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1287): WC_Checkout->send_ajax_failure_response()
+#8 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(508): WC_Checkout->process_checkout()
+#9 /home/user/www/task/wp-includes/class-wp-hook.php(310): WC_AJAX::checkout()
+#10 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#11 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action()
+#13 /home/user/www/task/wp-includes/class-wp-hook.php(310): WC_AJAX::do_wc_ajax()
+#14 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#15 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#16 /home/user/www/task/wp-includes/template-loader.php(13): do_action()
+#17 /home/user/www/task/wp-blog-header.php(19): require_once('...')
+#18 /home/user/www/task/index.php(17): require('...')
+#19 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#20 {main}
+  thrown in /home/user/www/task/wp-includes/kses.php on line 1735
+
+2023-08-12T12:19:00+00:00 CRITICAL Uncaught TypeError: preg_replace(): Argument #3 ($subject) must be of type array|string, WP_Error given in /home/user/www/task/wp-includes/kses.php:1735
+Stack trace:
+#0 /home/user/www/task/wp-includes/kses.php(1735): preg_replace()
+#1 /home/user/www/task/wp-includes/kses.php(752): wp_kses_no_null()
+#2 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(280): wp_kses()
+#3 /home/user/www/task/wp-content/plugins/woocommerce/templates/notices/error.php(30): wc_kses_notice()
+#4 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('...')
+#5 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(158): wc_get_template()
+#6 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1187): wc_print_notices()
+#7 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1287): WC_Checkout->send_ajax_failure_response()
+#8 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(508): WC_Checkout->process_checkout()
+#9 /home/user/www/task/wp-includes/class-wp-hook.php(310): WC_AJAX::checkout()
+#10 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#11 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(96): do_action()
+#13 /home/user/www/task/wp-includes/class-wp-hook.php(310): WC_AJAX::do_wc_ajax()
+#14 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#15 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#16 /home/user/www/task/wp-includes/template-loader.php(13): do_action()
+#17 /home/user/www/task/wp-blog-header.php(19): require_once('...')
+#18 /home/user/www/task/index.php(17): require('...')
+#19 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#20 {main}
+  thrown in /home/user/www/task/wp-includes/kses.php on line 1735
+
+2023-08-12T12:19:25+00:00 CRITICAL Uncaught TypeError: preg_replace(): Argument #3 ($subject) must be of type array|string, WP_Error given in /home/user/www/task/wp-includes/kses.php:1735
+Stack trace:
+#0 /home/user/www/task/wp-includes/kses.php(1735): preg_replace()
+#1 /home/user/www/task/wp-includes/kses.php(752): wp_kses_no_null()
+#2 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(280): wp_kses()
+#3 /home/user/www/task/wp-content/plugins/woocommerce/templates/notices/error.php(30): wc_kses_notice()
+#4 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('...')
+#5 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(158): wc_get_template()
+#6 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3878): wc_print_notices()
+#7 /home/user/www/task/wp-includes/class-wp-hook.php(310): woocommerce_output_all_notices()
+#8 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#9 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/user/www/task/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(330): do_action()
+#11 /home/user/www/task/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#12 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output()
+#13 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper()
+#14 /home/user/www/task/wp-includes/shortcodes.php(395): WC_Shortcodes::checkout()
+#15 [internal function]: do_shortcode_tag()
+#16 /home/user/www/task/wp-includes/shortcodes.php(235): preg_replace_callback()
+#17 /home/user/www/task/wp-includes/class-wp-hook.php(310): do_shortcode()
+#18 /home/user/www/task/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#19 /home/user/www/task/wp-includes/post-template.php(256): apply_filters()
+#20 /home/user/www/task/wp-content/themes/shoppingcart/page.php(39): the_content()
+#21 /home/user/www/task/wp-includes/template-loader.php(106): include('...')
+#22 /home/user/www/task/wp-blog-header.php(19): require_once('...')
+#23 /home/user/www/task/index.php(17): require('...')
+#24 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#25 {main}
+  thrown in /home/user/www/task/wp-includes/kses.php on line 1735
+
+2023-08-12T12:21:09+00:00 CRITICAL Uncaught TypeError: preg_replace(): Argument #3 ($subject) must be of type array|string, WP_Error given in /home/user/www/task/wp-includes/kses.php:1735
+Stack trace:
+#0 /home/user/www/task/wp-includes/kses.php(1735): preg_replace()
+#1 /home/user/www/task/wp-includes/kses.php(752): wp_kses_no_null()
+#2 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(280): wp_kses()
+#3 /home/user/www/task/wp-content/plugins/woocommerce/templates/notices/error.php(30): wc_kses_notice()
+#4 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('...')
+#5 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(158): wc_get_template()
+#6 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3878): wc_print_notices()
+#7 /home/user/www/task/wp-includes/class-wp-hook.php(310): woocommerce_output_all_notices()
+#8 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#9 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/user/www/task/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(330): do_action()
+#11 /home/user/www/task/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#12 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output()
+#13 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper()
+#14 /home/user/www/task/wp-includes/shortcodes.php(395): WC_Shortcodes::checkout()
+#15 [internal function]: do_shortcode_tag()
+#16 /home/user/www/task/wp-includes/shortcodes.php(235): preg_replace_callback()
+#17 /home/user/www/task/wp-includes/class-wp-hook.php(310): do_shortcode()
+#18 /home/user/www/task/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#19 /home/user/www/task/wp-includes/post-template.php(256): apply_filters()
+#20 /home/user/www/task/wp-content/themes/shoppingcart/page.php(39): the_content()
+#21 /home/user/www/task/wp-includes/template-loader.php(106): include('...')
+#22 /home/user/www/task/wp-blog-header.php(19): require_once('...')
+#23 /home/user/www/task/index.php(17): require('...')
+#24 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#25 {main}
+  thrown in /home/user/www/task/wp-includes/kses.php on line 1735
+
+2023-08-12T12:24:49+00:00 CRITICAL Uncaught TypeError: preg_replace(): Argument #3 ($subject) must be of type array|string, WP_Error given in /home/user/www/task/wp-includes/kses.php:1735
+Stack trace:
+#0 /home/user/www/task/wp-includes/kses.php(1735): preg_replace()
+#1 /home/user/www/task/wp-includes/kses.php(752): wp_kses_no_null()
+#2 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(280): wp_kses()
+#3 /home/user/www/task/wp-content/plugins/woocommerce/templates/notices/error.php(30): wc_kses_notice()
+#4 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('...')
+#5 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(158): wc_get_template()
+#6 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3878): wc_print_notices()
+#7 /home/user/www/task/wp-includes/class-wp-hook.php(310): woocommerce_output_all_notices()
+#8 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#9 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/user/www/task/wp-content/plugins/woocommerce/templates/content-single-product.php(27): do_action()
+#11 /home/user/www/task/wp-includes/template.php(787): require('...')
+#12 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#13 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-template-functions.php(977): wc_get_template_part()
+#14 /home/user/www/task/wp-content/themes/shoppingcart/woocommerce.php(23): woocommerce_content()
+#15 /home/user/www/task/wp-includes/template-loader.php(106): include('...')
+#16 /home/user/www/task/wp-blog-header.php(19): require_once('...')
+#17 /home/user/www/task/index.php(17): require('...')
+#18 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#19 {main}
+  thrown in /home/user/www/task/wp-includes/kses.php on line 1735
+
+2023-08-12T12:25:00+00:00 CRITICAL Uncaught TypeError: preg_replace(): Argument #3 ($subject) must be of type array|string, WP_Error given in /home/user/www/task/wp-includes/kses.php:1735
+Stack trace:
+#0 /home/user/www/task/wp-includes/kses.php(1735): preg_replace()
+#1 /home/user/www/task/wp-includes/kses.php(752): wp_kses_no_null()
+#2 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(280): wp_kses()
+#3 /home/user/www/task/wp-content/plugins/woocommerce/templates/notices/error.php(30): wc_kses_notice()
+#4 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('...')
+#5 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(158): wc_get_template()
+#6 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3878): wc_print_notices()
+#7 /home/user/www/task/wp-includes/class-wp-hook.php(310): woocommerce_output_all_notices()
+#8 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#9 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-template-functions.php(993): do_action()
+#11 /home/user/www/task/wp-content/themes/shoppingcart/woocommerce.php(23): woocommerce_content()
+#12 /home/user/www/task/wp-includes/template-loader.php(106): include('...')
+#13 /home/user/www/task/wp-blog-header.php(19): require_once('...')
+#14 /home/user/www/task/index.php(17): require('...')
+#15 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#16 {main}
+  thrown in /home/user/www/task/wp-includes/kses.php on line 1735
+
+2023-08-12T12:25:03+00:00 CRITICAL Uncaught TypeError: preg_replace(): Argument #3 ($subject) must be of type array|string, WP_Error given in /home/user/www/task/wp-includes/kses.php:1735
+Stack trace:
+#0 /home/user/www/task/wp-includes/kses.php(1735): preg_replace()
+#1 /home/user/www/task/wp-includes/kses.php(752): wp_kses_no_null()
+#2 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(280): wp_kses()
+#3 /home/user/www/task/wp-content/plugins/woocommerce/templates/notices/error.php(30): wc_kses_notice()
+#4 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('...')
+#5 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(158): wc_get_template()
+#6 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3878): wc_print_notices()
+#7 /home/user/www/task/wp-includes/class-wp-hook.php(310): woocommerce_output_all_notices()
+#8 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#9 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-template-functions.php(993): do_action()
+#11 /home/user/www/task/wp-content/themes/shoppingcart/woocommerce.php(23): woocommerce_content()
+#12 /home/user/www/task/wp-includes/template-loader.php(106): include('...')
+#13 /home/user/www/task/wp-blog-header.php(19): require_once('...')
+#14 /home/user/www/task/index.php(17): require('...')
+#15 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#16 {main}
+  thrown in /home/user/www/task/wp-includes/kses.php on line 1735
+
+2023-08-12T12:25:16+00:00 CRITICAL Uncaught TypeError: preg_replace(): Argument #3 ($subject) must be of type array|string, WP_Error given in /home/user/www/task/wp-includes/kses.php:1735
+Stack trace:
+#0 /home/user/www/task/wp-includes/kses.php(1735): preg_replace()
+#1 /home/user/www/task/wp-includes/kses.php(752): wp_kses_no_null()
+#2 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(280): wp_kses()
+#3 /home/user/www/task/wp-content/plugins/woocommerce/templates/notices/error.php(30): wc_kses_notice()
+#4 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('...')
+#5 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-notice-functions.php(158): wc_get_template()
+#6 /home/user/www/task/wp-content/plugins/woocommerce/includes/wc-template-functions.php(3878): wc_print_notices()
+#7 /home/user/www/task/wp-includes/class-wp-hook.php(310): woocommerce_output_all_notices()
+#8 /home/user/www/task/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#9 /home/user/www/task/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/user/www/task/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(330): do_action()
+#11 /home/user/www/task/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#12 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output()
+#13 /home/user/www/task/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper()
+#14 /home/user/www/task/wp-includes/shortcodes.php(395): WC_Shortcodes::checkout()
+#15 [internal function]: do_shortcode_tag()
+#16 /home/user/www/task/wp-includes/shortcodes.php(235): preg_replace_callback()
+#17 /home/user/www/task/wp-includes/class-wp-hook.php(310): do_shortcode()
+#18 /home/user/www/task/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#19 /home/user/www/task/wp-includes/post-template.php(256): apply_filters()
+#20 /home/user/www/task/wp-content/themes/shoppingcart/page.php(39): the_content()
+#21 /home/user/www/task/wp-includes/template-loader.php(106): include('...')
+#22 /home/user/www/task/wp-blog-header.php(19): require_once('...')
+#23 /home/user/www/task/index.php(17): require('...')
+#24 /home/user/.config/composer/vendor/cpriego/valet-linux/server.php(232): require('...')
+#25 {main}
+  thrown in /home/user/www/task/wp-includes/kses.php on line 1735
+
